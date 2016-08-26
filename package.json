@@ -1,0 +1,19 @@
+{
+  "name": "beerlocker",
+  "version": "1.0.0",
+  "description": "rest api practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saru",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "mongoose": "^4.3.7",
+    "passport": "^0.3.2",
+    "passport-http": "^0.3.0"
+  }
+}
